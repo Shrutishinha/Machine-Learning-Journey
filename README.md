@@ -1,43 +1,132 @@
-# Hi 👋, I'm Shruti Sinha
+# 🚀 Machine Learning Journey
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;QA+Automation+Enthusiast;Machine+Learning+Learner;Open+to+Internships+and+Jobs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Machine+Learning+Journey!;Learning+Machine+Learning+Step+by+Step;Python+%7C+NumPy+%7C+Pandas+%7C+ML;Building+Projects+and+Growing+Daily" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About This Repository
 
-* 🎓 B.Tech Student
-* 💻 Interested in Java Development, QA Automation, and Machine Learning
-* 🌱 Currently learning React, Node.js, Selenium, and Advanced ML
-* 📚 Solving DSA and interview problems regularly
-* 🎯 Goal: Software Developer / QA Engineer
+This repository documents my daily progress in Machine Learning and Data Science.
+
+I use it to:
+
+* 📚 Learn ML concepts from scratch
+* 🧠 Practice algorithms and coding
+* 📊 Work with datasets
+* 🔬 Experiment with models
+* 🚀 Build projects and improve skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-### Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-### Web Development
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+### Libraries
 
-### Frameworks & Tools
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
+* Seaborn
+* SciPy
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+---
+
+## 📚 Learning Roadmap
+
+### Python Fundamentals
+
+* Variables
+* Loops
+* Functions
+* OOP
+
+### Data Analysis
+
+* NumPy
+* Pandas
+* Data Cleaning
+* Feature Engineering
+
+### Data Visualization
+
+* Matplotlib
+* Charts
+* Histograms
+* Scatter Plots
+
+### Statistics
+
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+* Correlation
+* Covariance
+
+### Machine Learning
+
+* Linear Regression
+* Logistic Regression
+* KNN
+* K-Means
+* Decision Trees
+* Random Forest
+* SVM
+* Naive Bayes
+
+---
+
+## 📂 Repository Structure
+
+```text
+Machine-Learning-Journey/
+│
+├── Day01_NumPy_Basics.ipynb
+├── Day02_Pandas_Basics.ipynb
+├── Day03_Matplotlib.ipynb
+├── Day04_Statistics.ipynb
+├── Day05_Linear_Regression.ipynb
+├── Day06_KNN.ipynb
+├── Day07_KMeans.ipynb
+├── Day08_Decision_Tree.ipynb
+├── Day09_Random_Forest.ipynb
+├── Day10_SVM.ipynb
+│
+├── datasets/
+├── images/
+└── README.md
+```
+
+---
+
+## 📈 Progress Tracker
+
+| Day    | Topic             | Status |
+| ------ | ----------------- | ------ |
+| Day 01 | NumPy Basics      | ✅      |
+| Day 02 | Pandas            | ✅      |
+| Day 03 | Matplotlib        | ✅      |
+| Day 04 | Statistics        | ✅      |
+| Day 05 | Linear Regression | ✅      |
+| Day 06 | KNN               | ✅      |
+| Day 07 | K-Means           | ✅      |
+| Day 08 | Decision Tree     | ⏳      |
+| Day 09 | Random Forest     | ⏳      |
+| Day 10 | SVM               | ⏳      |
 
 ---
 
@@ -49,64 +138,70 @@
 
 ---
 
+## 🏆 Learning Goals
+
+* Complete core Machine Learning algorithms
+* Build end-to-end ML projects
+* Learn model evaluation techniques
+* Practice feature engineering
+* Prepare for interviews and internships
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Featured Topics
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+### NumPy
 
----
+* Arrays
+* Matrix Operations
+* Transpose
+* Inverse
+* Dot Product
+* Cross Product
 
-## 💼 Featured Projects
+### Statistics
 
-### Resume Screening System
+* Mean
+* Variance
+* Standard Deviation
+* Probability
 
-* NLP-based resume analysis
-* Keyword matching
-* Candidate ranking
+### Machine Learning
 
-### Java Login System
-
-* Java Swing
-* JDBC
-* MySQL
-
-### Selenium Automation Suite
-
-* Login Testing
-* Assertions
-* Screenshot Capture
-
-### Machine Learning Learning Repository
-
-* NumPy
-* Pandas
-* KNN
-* K-Means
-* Random Forest
+* Supervised Learning
+* Unsupervised Learning
+* Classification
+* Regression
+* Clustering
 
 ---
 
-## 🏆 Achievements
+## 🚀 Future Projects
 
-* Completed multiple ML projects
-* Built Java desktop applications
-* Practiced SQL and DSA problems
-* Learning QA Automation and CI/CD
+* House Price Prediction
+* Student Performance Prediction
+* Resume Screening System
+* Employee Attrition Prediction
+* Movie Recommendation System
 
 ---
 
-## 📫 Connect With Me
+## ⭐ Support
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
+If you find this repository useful:
+
+⭐ Star the repository
+
+🍴 Fork the repository
+
+📚 Follow the learning journey
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Happy Learning and Building 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
 </div>
