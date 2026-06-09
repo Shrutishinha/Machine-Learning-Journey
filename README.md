@@ -1,11 +1,20 @@
 # Hi 👋, I'm Shruti Sinha
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;QA+Automation+Enthusiast;Machine+Learning+Learner;Open+to+Internships+and+Jobs" alt="Typing SVG" />
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 * 🎓 B.Tech Student
-* 💻 Java Developer | QA Automation Enthusiast | ML Learner
-* 🌱 Learning React, Node.js, Selenium, and Machine Learning
-* 🎯 Looking for Software Developer and QA opportunities
+* 💻 Interested in Java Development, QA Automation, and Machine Learning
+* 🌱 Currently learning React, Node.js, Selenium, and Advanced ML
+* 📚 Solving DSA and interview problems regularly
+* 🎯 Goal: Software Developer / QA Engineer
 
 ---
 
@@ -13,18 +22,22 @@
 
 ### Languages
 
-* Java
-* Python
-* SQL
-* JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Technologies
+### Web Development
 
-* React
-* Node.js
-* Selenium
-* Git & GitHub
-* MySQL
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
 
@@ -33,6 +46,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
 
 ---
 
@@ -46,23 +62,23 @@
 
 ### Resume Screening System
 
-* Resume analysis and ranking
-* Keyword-based matching
-* Candidate shortlisting
+* NLP-based resume analysis
+* Keyword matching
+* Candidate ranking
 
 ### Java Login System
 
-* Java Swing UI
-* JDBC Connectivity
-* MySQL Integration
+* Java Swing
+* JDBC
+* MySQL
 
 ### Selenium Automation Suite
 
-* Automated login testing
-* Assertions and validation
-* Screenshot capture
+* Login Testing
+* Assertions
+* Screenshot Capture
 
-### Machine Learning Repository
+### Machine Learning Learning Repository
 
 * NumPy
 * Pandas
@@ -72,9 +88,25 @@
 
 ---
 
+## 🏆 Achievements
+
+* Completed multiple ML projects
+* Built Java desktop applications
+* Practiced SQL and DSA problems
+* Learning QA Automation and CI/CD
+
+---
+
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
 * LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* GitHub: https://github.com/YOUR_USERNAME
+* Email: [your-email@example.com](mailto:your-email@example.com)
 
-⭐ Always learning and building new projects.
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
