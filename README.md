@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Machine+Learning+Journey!;Learning+Machine+Learning+Step+by+Step;Python+%7C+NumPy+%7C+Pandas+%7C+ML;Building+Projects+and+Growing+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Machine+Learning+Journey!;Learning+Machine+Learning+Every+Day;Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-Learn;Building+Projects+and+Growing+Daily" />
 
 </div>
 
@@ -10,27 +10,26 @@
 
 ## 🎯 About This Repository
 
-This repository documents my daily progress in Machine Learning and Data Science.
+This repository documents my journey of learning Machine Learning, Data Science, Python, and AI concepts through hands-on practice and projects.
 
-I use it to:
+### What You'll Find Here
 
-* 📚 Learn ML concepts from scratch
-* 🧠 Practice algorithms and coding
-* 📊 Work with datasets
-* 🔬 Experiment with models
-* 🚀 Build projects and improve skills
+* 📚 Daily learning notebooks
+* 🧠 Machine Learning algorithms
+* 📊 Data Analysis projects
+* 📈 Data Visualization examples
+* 🔬 Statistics and Probability concepts
+* 🚀 Mini Projects and Case Studies
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-
 </p>
 
 ### Libraries
@@ -39,7 +38,6 @@ I use it to:
 * Pandas
 * Matplotlib
 * Scikit-Learn
-* Seaborn
 * SciPy
 
 ---
@@ -51,7 +49,7 @@ I use it to:
 * Variables
 * Loops
 * Functions
-* OOP
+* OOP Concepts
 
 ### Data Analysis
 
@@ -59,13 +57,6 @@ I use it to:
 * Pandas
 * Data Cleaning
 * Feature Engineering
-
-### Data Visualization
-
-* Matplotlib
-* Charts
-* Histograms
-* Scatter Plots
 
 ### Statistics
 
@@ -118,7 +109,7 @@ Machine-Learning-Journey/
 | Day    | Topic             | Status |
 | ------ | ----------------- | ------ |
 | Day 01 | NumPy Basics      | ✅      |
-| Day 02 | Pandas            | ✅      |
+| Day 02 | Pandas Basics     | ✅      |
 | Day 03 | Matplotlib        | ✅      |
 | Day 04 | Statistics        | ✅      |
 | Day 05 | Linear Regression | ✅      |
@@ -132,23 +123,17 @@ Machine-Learning-Journey/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shrutisinha&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutisinha&layout=compact&theme=tokyonight"/>
 
-## 🏆 Learning Goals
-
-* Complete core Machine Learning algorithms
-* Build end-to-end ML projects
-* Learn model evaluation techniques
-* Practice feature engineering
-* Prepare for interviews and internships
+</p>
 
 ---
 
-## 💡 Featured Topics
+## 🎓 Topics Covered
 
 ### NumPy
 
@@ -159,48 +144,59 @@ Machine-Learning-Journey/
 * Dot Product
 * Cross Product
 
+### Pandas
+
+* DataFrames
+* Series
+* Data Cleaning
+* CSV Handling
+
 ### Statistics
 
 * Mean
 * Variance
 * Standard Deviation
-* Probability
+* Correlation
+* Covariance
 
 ### Machine Learning
 
-* Supervised Learning
-* Unsupervised Learning
 * Classification
 * Regression
 * Clustering
+* Model Evaluation
 
 ---
 
 ## 🚀 Future Projects
 
 * House Price Prediction
-* Student Performance Prediction
 * Resume Screening System
 * Employee Attrition Prediction
+* Student Performance Prediction
 * Movie Recommendation System
 
 ---
 
-## ⭐ Support
+## 🎯 Goals
 
-If you find this repository useful:
+* Master Machine Learning Fundamentals
+* Build Real-World Projects
+* Strengthen Data Analysis Skills
+* Prepare for Technical Interviews
+* Create an Industry-Ready Portfolio
 
-⭐ Star the repository
+---
 
-🍴 Fork the repository
+## 🤝 Connect With Me
 
-📚 Follow the learning journey
+* GitHub: https://github.com/Shrutisinha
 
 ---
 
 <div align="center">
 
-### Happy Learning and Building 🚀
+### ⭐ If you find this repository useful, consider starring it!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
