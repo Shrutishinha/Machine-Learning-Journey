@@ -1,23 +1,11 @@
 # 🚀 Machine Learning Journey
-```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6A5ACD,100:00C9A7&height=250&section=header&text=Machine%20Learning%20Journey&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=🚀+Machine+Learning+Journey;📊+Learning+Data+Science+Step+by+Step;🐍+Python+%7C+NumPy+%7C+Pandas;🤖+Exploring+Machine+Learning+Algorithms;🌟+Building+Skills+Every+Day" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Machine+Learning+Journey;📊+Learning+Data+Science+Through+Practice;🐍+Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-Learn;🧠+Exploring+Machine+Learning+Algorithms;📈+Building+Skills+One+Notebook+at+a+Time"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0f2e-4f59-9f63-47c1f3ca7c5f.gif" width="850"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Shrutisinha&label=Repository+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Journey-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2e6f1b57-7756-4f8e-bc8f-7c1e3f4e3e4a.gif" width="900"/>
 
 </div>
-```
 
 <div align="center">
 
