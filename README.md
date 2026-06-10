@@ -1,11 +1,7 @@
 # 🚀 Machine Learning Journey
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=🚀+Machine+Learning+Journey;📊+Learning+Data+Science+Step+by+Step;🐍+Python+%7C+NumPy+%7C+Pandas;🤖+Exploring+Machine+Learning+Algorithms;🌟+Building+Skills+Every+Day" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2e6f1b57-7756-4f8e-bc8f-7c1e3f4e3e4a.gif" width="900"/>
-
-</div>
 
 <div align="center">
 
