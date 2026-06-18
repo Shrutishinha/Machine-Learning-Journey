@@ -1,248 +1,133 @@
-# 🤖 Machine Learning Daily Learning Journey
+<h1 align="center">
+  🤖 Machine Learning Daily Learning Journey
+</h1>
 
-Welcome to my **Machine Learning Learning Repository**! 🚀
-
-This repository contains my day-by-day Machine Learning practice completed using **Google Colab**. It includes theory, practical implementations, assignments, and mini-projects covering fundamental and advanced Machine Learning concepts.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+Machine+Learning+Journey!;Learning+Machine+Learning+Every+Day+🚀;Google+Colab+Notebooks;Projects+%7C+Assignments+%7C+Practice;Building+My+AI+Portfolio" />
+</p>
 
 ---
 
-# 👩‍💻 Author
+<p align="center">
 
-**Shruti Sinha**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-B.Tech Computer Science & Engineering Student
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+Hi 👋
+
+I'm **Shruti Sinha**
+
+🎓 B.Tech CSE Student
+
+📚 Currently learning **Machine Learning**
+
+💻 Solving coding problems daily
+
+🚀 Building projects using Python and Google Colab
 
 ---
 
 # 📚 Repository Overview
 
-This repository documents my daily progress in learning Machine Learning.
+This repository contains my **daily Machine Learning learning journey**.
 
-Each notebook contains:
-- 📖 Theory Notes
-- 💻 Python Implementation
-- 📊 Data Visualization
-- 🤖 Machine Learning Models
-- 📈 Model Evaluation
-- 📝 Practical Assignments
+Each notebook includes
+
+- 📖 Theory
+- 💻 Python Code
+- 📊 Visualizations
+- 📈 Model Training
+- 🤖 Machine Learning Algorithms
+- 📝 Assignments
+- 🎯 Mini Projects
 
 ---
 
-# 🛠️ Technologies Used
+# 📅 Daily Progress
 
-- Python 3
-- Google Colab
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- SciPy
+| Day | Topic | Status |
+|------|--------|--------|
+| Day 1 | Introduction to ML | ✅ |
+| Day 2 | Data Preprocessing | ✅ |
+| Day 3 | Missing Values | ✅ |
+| Day 4 | Feature Engineering | ✅ |
+| Day 5 | Visualization | ✅ |
+| Day 6 | Linear Regression | ✅ |
+| Day 7 | Logistic Regression | ✅ |
+| Day 8 | Decision Trees | ✅ |
+| Day 9 | Random Forest | ✅ |
+| Day 10 | SVM | ✅ |
+| ... | More Coming Soon | 🚀 |
+
+---
+
+# 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,github,vscode,git" />
 
 ---
 
 # 📂 Repository Structure
 
 ```
-Machine-Learning-Daily-Learning/
+Machine-Learning/
+
 │
-├── Day-01/
-│   ├── Introduction_to_Machine_Learning.ipynb
-│   └── README.md
-│
-├── Day-02/
-│   ├── Data_Preprocessing.ipynb
-│
-├── Day-03/
-│   ├── Missing_Value_Handling.ipynb
-│
-├── Day-04/
-│   ├── Feature_Engineering.ipynb
-│
-├── Day-05/
-│   ├── Data_Visualization.ipynb
-│
-├── Day-06/
-│   ├── Linear_Regression.ipynb
-│
-├── Day-07/
-│   ├── Logistic_Regression.ipynb
-│
-├── Day-08/
-│   ├── Decision_Tree.ipynb
-│
-├── Day-09/
-│   ├── Random_Forest.ipynb
-│
-├── Day-10/
-│   ├── Support_Vector_Machine.ipynb
-│
-├── ...
-│
+
+├── Day-01
+
+├── Day-02
+
+├── Day-03
+
+├── Day-04
+
+├── Day-05
+
+├── Day-06
+
+├── Day-07
+
+├── Day-08
+
+├── Projects
+
 └── README.md
 ```
 
 ---
 
-# 📖 Learning Topics
+# 📈 Machine Learning Workflow
 
-## Machine Learning Basics
-
-- Introduction to Machine Learning
-- Types of Machine Learning
-- Machine Learning Workflow
-- Data Collection
-- Data Cleaning
-- Exploratory Data Analysis
-
----
-
-## Data Preprocessing
-
-- Missing Value Handling
-- Mean Imputation
-- Median Imputation
-- Mode Imputation
-- Record Deletion
-- Feature Scaling
-- Standardization
-- Normalization
-- Label Encoding
-- One-Hot Encoding
-
----
-
-## Data Visualization
-
-- Line Plot
-- Scatter Plot
-- Histogram
-- Bar Chart
-- Pie Chart
-- Heatmap
-- Box Plot
-- Correlation Matrix
-
----
-
-## Supervised Learning
-
-### Regression
-
-- Linear Regression
-- Multiple Linear Regression
-
-### Classification
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-
----
-
-## Unsupervised Learning
-
-- K-Means Clustering
-- Hierarchical Clustering
-
----
-
-## Model Evaluation
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC Curve
-- R² Score
-- MAE
-- MSE
-- RMSE
-
----
-
-## Feature Engineering
-
-- Feature Selection
-- Feature Extraction
-- Correlation Analysis
-- Outlier Detection
-
----
-
-## Practical Assignments
-
-✔ House Price Prediction
-
-✔ Titanic Survival Prediction
-
-✔ Correlation Analysis
-
-✔ Missing Value Handling
-
-✔ Bayesian Probability
-
-✔ Logistic Regression
-
-✔ Linear Regression
-
-✔ Classification Problems
-
----
-
-# 🚀 How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Machine-Learning-Daily-Learning.git
-```
-
----
-
-### Open in Google Colab
-
-Open any notebook using Google Colab.
-
-OR
-
-Upload the notebook manually to Google Colab.
-
----
-
-### Install Required Libraries
-
-```python
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
-```
-
----
-
-# 📊 Sample Workflow
-
-```
+```text
 Dataset
    │
    ▼
 Data Cleaning
    │
    ▼
-Preprocessing
+EDA
    │
    ▼
 Feature Engineering
    │
    ▼
-Model Training
+Model Building
    │
    ▼
 Prediction
@@ -253,71 +138,144 @@ Evaluation
 
 ---
 
-# 🎯 Learning Goals
+# 📖 Topics Covered
 
-- Learn Machine Learning Fundamentals
-- Build Practical Projects
-- Improve Python Skills
-- Understand Data Analysis
-- Implement Machine Learning Algorithms
-- Prepare for Placements
-- Build a Strong GitHub Portfolio
+✅ Introduction to Machine Learning
 
----
+✅ Data Preprocessing
 
-# ⭐ Repository Highlights
+✅ Missing Value Handling
 
-✔ Daily Learning Updates
+✅ Feature Scaling
 
-✔ Google Colab Notebooks
+✅ Label Encoding
 
-✔ Well-Commented Code
+✅ One Hot Encoding
 
-✔ Practical Examples
+✅ Correlation Analysis
 
-✔ Beginner-Friendly
+✅ Data Visualization
 
-✔ Interview Preparation
+✅ Linear Regression
 
-✔ Assignment Solutions
+✅ Logistic Regression
 
-✔ Machine Learning Projects
+✅ Decision Tree
 
----
+✅ Random Forest
 
-# 📈 Future Topics
+✅ SVM
 
-- Deep Learning
-- Artificial Neural Networks
-- TensorFlow
-- Keras
-- CNN
-- RNN
-- NLP
-- Computer Vision
-- Recommendation Systems
-- Time Series Analysis
+✅ KNN
+
+✅ Naive Bayes
+
+✅ Model Evaluation
 
 ---
 
-# 🤝 Contributions
+# 📊 GitHub Stats
 
-Suggestions and improvements are always welcome.
+<p align="center">
 
-Feel free to fork this repository and submit a pull request.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-# 📬 Contact
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-Email: your-email@example.com
+</p>
 
 ---
 
-# ⭐ If you found this repository useful, don't forget to Star ⭐ the repository!
+# 💻 Most Used Languages
 
-Happy Learning! 🚀
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# 📈 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10"/>
+
+</p>
+
+---
+
+# 📌 Projects
+
+🏠 House Price Prediction
+
+🚢 Titanic Survival Prediction
+
+📊 Correlation Analysis
+
+📈 Logistic Regression
+
+📉 Linear Regression
+
+🤖 Bayesian Probability
+
+More projects coming soon...
+
+---
+
+# 🎯 Goals
+
+✔ Learn Machine Learning
+
+✔ Master Data Analysis
+
+✔ Build Projects
+
+✔ Prepare for Placements
+
+✔ Contribute to Open Source
+
+✔ Become a Data Analyst
+
+---
+
+# ⭐ Support
+
+If you like this repository
+
+🌟 Star this repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+---
+
+<p align="center">
+
+<h2 align="center">Thanks for Visiting ❤️</h2>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+
+</p>
