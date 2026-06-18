@@ -1,7 +1,71 @@
 <h1 align="center">
   🤖 Machine Learning Daily Learning Journey
 </h1>
+<!-- Animated Banner -->
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Machine%20Learning%20Journey&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Google%20Colab%20•%20Python%20•%20Projects%20•%20Daily%20Learning&descAlignY=60&descSize=20"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hi%2C+I'm+Shruti+Sinha;🤖+Machine+Learning+Explorer;📚+Learning+Every+Single+Day;💻+Python+%7C+Google+Colab+%7C+Scikit-Learn;📊+Data+Analysis+%7C+Visualization;🚀+Building+Projects+One+Day+at+a+Time"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="850"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h1 align="center">
+
+✨ Welcome to My Machine Learning Daily Learning Repository ✨
+
+</h1>
+
+<h3 align="center">
+
+🚀 Learning • Building • Practicing • Growing Every Day 🚀
+
+</h3>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+Machine+Learning+Journey!;Learning+Machine+Learning+Every+Day+🚀;Google+Colab+Notebooks;Projects+%7C+Assignments+%7C+Practice;Building+My+AI+Portfolio" />
 </p>
