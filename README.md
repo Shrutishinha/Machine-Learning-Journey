@@ -1,431 +1,323 @@
-````markdown
-<h1 align="center">🚀 Machine Learning Journey</h1>
+# 🤖 Machine Learning Daily Learning Journey
 
-<p align="center">
-  <b>Learning Machine Learning one notebook at a time.</b>
-</p>
+Welcome to my **Machine Learning Learning Repository**! 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+My+Machine+Learning+Journey!;Python+%7C+NumPy+%7C+Pandas+%7C+Scikit-Learn;Learning+Through+Projects;Building+Real-World+Machine+Learning+Skills;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shrutisinha&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Shrutisinha/Machine-Learning-Journey?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/Shrutisinha/Machine-Learning-Journey?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/Shrutisinha/Machine-Learning-Journey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge"/>
-</p>
+This repository contains my day-by-day Machine Learning practice completed using **Google Colab**. It includes theory, practical implementations, assignments, and mini-projects covering fundamental and advanced Machine Learning concepts.
 
 ---
 
-# 📑 Table of Contents
+# 👩‍💻 Author
 
-- 📖 About
-- ✨ Features
-- 🛠 Tech Stack
-- 📚 Libraries
-- 🗺 Learning Roadmap
-- 📂 Repository Structure
-- 📈 Progress Tracker
-- 📚 Topics Covered
-- 🚀 Projects
-- 🎯 Goals
-- 🏆 GitHub Stats
-- 🔥 GitHub Streak
-- 📈 Contribution Graph
-- 📚 Learning Resources
-- 🤝 Connect
-- ⭐ Support
+**Shruti Sinha**
+
+B.Tech Computer Science & Engineering Student
 
 ---
 
-# 📖 About
+# 📚 Repository Overview
 
-Welcome to my **Machine Learning Journey** repository!
+This repository documents my daily progress in learning Machine Learning.
 
-This repository documents my journey of learning **Machine Learning, Python, Statistics, Data Analysis, and Data Visualization** through practical implementation.
-
-Instead of simply reading theory, I believe in **learning by building**.
-
-Every notebook, project, and experiment in this repository helps strengthen my understanding of Machine Learning concepts and prepares me for real-world applications.
-
----
-
-# ✨ Features
-
-✅ Beginner Friendly
-
-✅ Well Commented Code
-
-✅ Practical Examples
-
-✅ Real Datasets
-
-✅ Mini Projects
-
-✅ Data Visualization
-
-✅ Machine Learning Models
-
-✅ Continuous Updates
+Each notebook contains:
+- 📖 Theory Notes
+- 💻 Python Implementation
+- 📊 Data Visualization
+- 🤖 Machine Learning Models
+- 📈 Model Evaluation
+- 📝 Practical Assignments
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Technologies Used
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
-
-</p>
-
----
-
-# 📚 Libraries & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-5B8DB8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-</p>
-
----
-
-# 🗺 Learning Roadmap
-
-```mermaid
-flowchart LR
-
-A[Python Fundamentals]
--->B[NumPy]
-
-B-->C[Pandas]
-
-C-->D[Data Cleaning]
-
-D-->E[Data Visualization]
-
-E-->F[Statistics]
-
-F-->G[Machine Learning]
-
-G-->H[Projects]
-
-H-->I[Deep Learning]
-````
+- Python 3
+- Google Colab
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SciPy
 
 ---
 
 # 📂 Repository Structure
 
-```text
-Machine-Learning-Journey
+```
+Machine-Learning-Daily-Learning/
 │
-├── 📂 Python
+├── Day-01/
+│   ├── Introduction_to_Machine_Learning.ipynb
+│   └── README.md
 │
-├── 📂 NumPy
+├── Day-02/
+│   ├── Data_Preprocessing.ipynb
 │
-├── 📂 Pandas
+├── Day-03/
+│   ├── Missing_Value_Handling.ipynb
 │
-├── 📂 Statistics
+├── Day-04/
+│   ├── Feature_Engineering.ipynb
 │
-├── 📂 Data Visualization
+├── Day-05/
+│   ├── Data_Visualization.ipynb
 │
-├── 📂 Machine Learning
-│   ├── Linear Regression
-│   ├── Logistic Regression
-│   ├── KNN
-│   ├── K-Means
-│   ├── Decision Tree
-│   ├── Random Forest
-│   ├── SVM
-│   ├── Naive Bayes
+├── Day-06/
+│   ├── Linear_Regression.ipynb
 │
-├── 📂 Projects
+├── Day-07/
+│   ├── Logistic_Regression.ipynb
 │
-├── 📂 Datasets
+├── Day-08/
+│   ├── Decision_Tree.ipynb
 │
-├── 📂 Images
+├── Day-09/
+│   ├── Random_Forest.ipynb
+│
+├── Day-10/
+│   ├── Support_Vector_Machine.ipynb
+│
+├── ...
 │
 └── README.md
 ```
 
 ---
 
-# 📊 Learning Progress
+# 📖 Learning Topics
 
-| Skill            | Progress                |
-| ---------------- | ----------------------- |
-| Python           | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| NumPy            | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |
-| Pandas           | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  |
-| Statistics       | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%    |
-| Machine Learning | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%     |
-| Projects         | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%      |
+## Machine Learning Basics
 
----
-
-# 📚 Topics Covered
-
-## 🐍 Python
-
-* Variables
-* Data Types
-* Operators
-* Loops
-* Functions
-* File Handling
-* OOP
-* Exception Handling
+- Introduction to Machine Learning
+- Types of Machine Learning
+- Machine Learning Workflow
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis
 
 ---
 
-## 🔢 NumPy
+## Data Preprocessing
 
-* Arrays
-* Indexing
-* Slicing
-* Broadcasting
-* Matrix Operations
-* Dot Product
-* Linear Algebra
-
----
-
-## 🐼 Pandas
-
-* Series
-* DataFrames
-* Reading CSV
-* Data Cleaning
-* Missing Values
-* GroupBy
-* Merge
-* Feature Engineering
+- Missing Value Handling
+- Mean Imputation
+- Median Imputation
+- Mode Imputation
+- Record Deletion
+- Feature Scaling
+- Standardization
+- Normalization
+- Label Encoding
+- One-Hot Encoding
 
 ---
 
-## 📈 Statistics
+## Data Visualization
 
-* Mean
-* Median
-* Mode
-* Variance
-* Standard Deviation
-* Correlation
-* Covariance
-* Probability
-* Bayes Theorem
-
----
-
-## 📊 Data Visualization
-
-* Line Plot
-* Scatter Plot
-* Histogram
-* Pie Chart
-* Bar Graph
-* Box Plot
-* Heatmap
+- Line Plot
+- Scatter Plot
+- Histogram
+- Bar Chart
+- Pie Chart
+- Heatmap
+- Box Plot
+- Correlation Matrix
 
 ---
 
-## 🤖 Machine Learning
+## Supervised Learning
 
-### Supervised Learning
+### Regression
 
-* Linear Regression
-* Logistic Regression
-* KNN
-* Decision Tree
-* Random Forest
-* Support Vector Machine
-* Naive Bayes
+- Linear Regression
+- Multiple Linear Regression
 
-### Unsupervised Learning
+### Classification
 
-* K-Means Clustering
-
-### Model Evaluation
-
-* Accuracy
-* Precision
-* Recall
-* F1 Score
-* Confusion Matrix
-* Cross Validation
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
 
 ---
 
-# 🚀 Featured Projects
+## Unsupervised Learning
 
-| Project                        | Status |
-| ------------------------------ | ------ |
-| House Price Prediction         | 🚧     |
-| Titanic Survival Prediction    | 🚧     |
-| Student Performance Prediction | 🚧     |
-| Employee Attrition Prediction  | 🚧     |
-| Movie Recommendation System    | 🚧     |
-| Spam Email Detection           | 🚧     |
-| Iris Classification            | 🚧     |
-| Loan Prediction                | 🚧     |
+- K-Means Clustering
+- Hierarchical Clustering
 
 ---
 
-# 🎯 Goals
+## Model Evaluation
 
-```text
-✅ Master Python
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- ROC Curve
+- R² Score
+- MAE
+- MSE
+- RMSE
 
-✅ Build Strong Statistics Foundation
+---
 
-✅ Learn Data Analysis
+## Feature Engineering
 
-✅ Understand Machine Learning Algorithms
+- Feature Selection
+- Feature Extraction
+- Correlation Analysis
+- Outlier Detection
 
-✅ Solve Real World Problems
+---
 
-✅ Build End-to-End Projects
+## Practical Assignments
 
-✅ Prepare for Technical Interviews
+✔ House Price Prediction
 
-✅ Become a Machine Learning Engineer
+✔ Titanic Survival Prediction
+
+✔ Correlation Analysis
+
+✔ Missing Value Handling
+
+✔ Bayesian Probability
+
+✔ Logistic Regression
+
+✔ Linear Regression
+
+✔ Classification Problems
+
+---
+
+# 🚀 How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Machine-Learning-Daily-Learning.git
 ```
 
 ---
 
-# 💻 Current Focus
+### Open in Google Colab
+
+Open any notebook using Google Colab.
+
+OR
+
+Upload the notebook manually to Google Colab.
+
+---
+
+### Install Required Libraries
 
 ```python
-class MachineLearningJourney:
-
-    def __init__(self):
-
-        self.python = "Improving"
-
-        self.numpy = "Practicing"
-
-        self.pandas = "Practicing"
-
-        self.statistics = "Learning"
-
-        self.machine_learning = "Exploring"
-
-        self.projects = "Building"
-
-    def goal(self):
-
-        return "Become a Machine Learning Engineer 🚀"
-
-
-me = MachineLearningJourney()
-
-print(me.goal())
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
 ```
 
 ---
 
-# 🏆 GitHub Statistics
+# 📊 Sample Workflow
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shrutisinha&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutisinha&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutisinha&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutisinha&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutisinha&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 📚 Learning Resources
-
-* Python Documentation
-* NumPy Documentation
-* Pandas Documentation
-* Matplotlib Documentation
-* Scikit-Learn Documentation
-* Kaggle Datasets
-* UCI Machine Learning Repository
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Shrutisinha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ⭐ Support
-
-If you found this repository helpful:
-
-⭐ Star this repository
-
-🍴 Fork it
-
-💡 Suggest improvements
-
-🤝 Contribute
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting!
-
-*"Learning never exhausts the mind."* — Leonardo da Vinci
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
-
-</div>
 ```
+Dataset
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Preprocessing
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Model Training
+   │
+   ▼
+Prediction
+   │
+   ▼
+Evaluation
+```
+
+---
+
+# 🎯 Learning Goals
+
+- Learn Machine Learning Fundamentals
+- Build Practical Projects
+- Improve Python Skills
+- Understand Data Analysis
+- Implement Machine Learning Algorithms
+- Prepare for Placements
+- Build a Strong GitHub Portfolio
+
+---
+
+# ⭐ Repository Highlights
+
+✔ Daily Learning Updates
+
+✔ Google Colab Notebooks
+
+✔ Well-Commented Code
+
+✔ Practical Examples
+
+✔ Beginner-Friendly
+
+✔ Interview Preparation
+
+✔ Assignment Solutions
+
+✔ Machine Learning Projects
+
+---
+
+# 📈 Future Topics
+
+- Deep Learning
+- Artificial Neural Networks
+- TensorFlow
+- Keras
+- CNN
+- RNN
+- NLP
+- Computer Vision
+- Recommendation Systems
+- Time Series Analysis
+
+---
+
+# 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+
+Feel free to fork this repository and submit a pull request.
+
+---
+
+# 📬 Contact
+
+GitHub: https://github.com/your-username
+
+LinkedIn: https://linkedin.com/in/your-profile
+
+Email: your-email@example.com
+
+---
+
+# ⭐ If you found this repository useful, don't forget to Star ⭐ the repository!
+
+Happy Learning! 🚀
