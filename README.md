@@ -1,6 +1,4 @@
-<h1 align="center">
-  🤖 Machine Learning Daily Learning Journey
-</h1>
+
 <!-- Animated Banner -->
 
 <p align="center">
