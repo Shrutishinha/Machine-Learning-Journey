@@ -1,6 +1,12 @@
 
 <!-- Animated Banner -->
 
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Machine%20Learning%20Journey&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Google%20Colab%20•%20Python%20•%20Projects%20•%20Daily%20Learning&descAlignY=60&descSize=20"/>
+
+</p>
 ---
 
 <p align="center">
