@@ -122,7 +122,7 @@ Each notebook includes
 | Day 1 | Introduction to ML | ✅ |
 | Day 2 | Data Preprocessing | ✅ |
 | Day 3 | Missing Values | ✅ |
-| Day 4 | Feature Engineering | ✅ |
+| Day 4 | Feature Engineering(Load and Visualize Iris Dataset,Data Preprocessing,Single Layer Perceptron (Binary Classification) | ✅ |
 | Day 5 | Visualization | ✅ |
 | Day 6 | Linear Regression | ✅ |
 | Day 7 | Logistic Regression | ✅ |
