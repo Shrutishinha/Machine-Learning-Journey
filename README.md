@@ -124,7 +124,7 @@ Each notebook includes
 | Day 3 | Missing Values | ✅ |
 | Day 4 | Feature Engineering(Load and Visualize Iris Dataset,Data Preprocessing,Single Layer Perceptron (Binary Classification) | ✅ |
 | Day 5 | Visualization | ✅ |
-| Day 6 | Linear Regression | ✅ |
+| Day 6 | gensim, Linear Regression | ✅ |
 | Day 7 | Logistic Regression | ✅ |
 | Day 8 | Decision Trees | ✅ |
 | Day 9 | Random Forest | ✅ |
